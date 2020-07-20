@@ -1,0 +1,5 @@
+.some-component {
+  background: $blue;
+  @apply text-green;
+  @include some-padding;
+}
